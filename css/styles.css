@@ -46,3 +46,10 @@ h6 {
     /* font-family: 'Open Sans', sans-serif; */
     font-family: 'Josefin Sans', sans-serif;
     font-size: 100%;
+}
+
+.textcenter{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}

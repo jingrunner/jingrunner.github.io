@@ -803,7 +803,7 @@
                 this.highestScore = Math.ceil(this.distanceRan);
                 this.distanceMeter.setHighScore(this.highestScore);
             }
-
+            
             // Reset the time clock.
             this.time = getTimeStamp();
         },
